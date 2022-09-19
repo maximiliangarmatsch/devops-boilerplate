@@ -9,7 +9,7 @@ on:
     branches-ignore: [master, main]
     # Remove the line above to run when pushing to master
   pull_request:
-    branches: [master, main]  
+    branches: [master, main]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -29,4 +29,3 @@ jobs:
         uses: github/super-linter@v4.9.5
         env:
           OUTPUT_FOLDER: Reports
-          VALIDATE_ALL_CODEBASE:false
