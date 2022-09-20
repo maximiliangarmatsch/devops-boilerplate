@@ -1,5 +1,4 @@
-const abc = 'hello';
+const abc =           'hello';
 
-abc = 'wold';
 
 console.log(abc);
