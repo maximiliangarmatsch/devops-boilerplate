@@ -1,3 +1,3 @@
 let abc = 'hello';
 
-console.log();
+console.log(abc);
