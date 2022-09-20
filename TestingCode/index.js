@@ -1,3 +1,3 @@
 console.log('hello');
 
-let abc = 'hello';
+let abc;
