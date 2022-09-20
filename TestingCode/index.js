@@ -1,3 +1,5 @@
-console.log('hello');
+const abc = 'hello';
 
-let abc;
+abc = 'wold';
+
+console.log(abc);
