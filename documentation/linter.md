@@ -6,10 +6,10 @@
 - Enjoy your more stable, and cleaner codebase
 
 ## Environment variables
-LINTER_RULES_PATH: /
-JAVASCRIPT_ES_CONFIG_FILE: .eslintrc.json
-VALIDATE_JAVASCRIPT_STANDARD: false
-VALIDATE_ALL_CODEBASE: false
-VALIDATE_JSON: false
-DEFAULT_BRANCH: main
-GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- LINTER_RULES_PATH: /
+- JAVASCRIPT_ES_CONFIG_FILE: .eslintrc.json
+- VALIDATE_JAVASCRIPT_STANDARD: false
+- VALIDATE_ALL_CODEBASE: false
+- VALIDATE_JSON: false
+- DEFAULT_BRANCH: main
+- GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
