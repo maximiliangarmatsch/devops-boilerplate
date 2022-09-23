@@ -1,7 +1,6 @@
 module.exports = {
   ci: {
     collect: {
-      url: ["https://www.github.com"],
       assert: {
         assertions: {
           "categories:performance": ["warn", { minScore: 0.1 }],
