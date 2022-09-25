@@ -1,3 +1,5 @@
-var abc = "hello";
+const abc = 'hello';
 
-console.log(abc);
+const ObjectNotation = {
+  ID: 1233,
+};
