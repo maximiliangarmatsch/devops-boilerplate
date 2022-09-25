@@ -1,4 +1,5 @@
 # Super Linter setup
+
 - Create a new file in your repository called .github/workflows/linter.yml
 - Copy the example workflow from <https://github.com/marketplace/actions/super-linter> into that new file, no extra configuration required
 - Commit that file to a new branch
@@ -6,6 +7,7 @@
 - Enjoy your more stable, and cleaner codebase
 
 ## Environment variables
+
 - LINTER_RULES_PATH: /
 - JAVASCRIPT_ES_CONFIG_FILE: .eslintrc.json
 - VALIDATE_JAVASCRIPT_STANDARD: false
