@@ -5,7 +5,7 @@
 - Commit that file to a new branch
 - Open up a pull request and observe the action working
 
-# Environment variables
+## Environment variables
 
 | ENV VAR                      | Description                                   |
 | ---------------------------- | --------------------------------------------- |
@@ -21,7 +21,7 @@
 
 For all Environment variables [Click Here](https://github.com/marketplace/actions/super-linter#environment-variables)
 
-# Run Super-Linter outside GitHub Actions(Locally)
+## Run Super-Linter outside GitHub Actions(Locally)
 
 If you want to test locally against the Super-Linter to test your branch of code, you will need to complete the following:
 
