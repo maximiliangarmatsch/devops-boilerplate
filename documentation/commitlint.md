@@ -11,8 +11,8 @@
     }
   }
   ```
-- install husky and enable husky hooks
-  `npm install husky --save-dev`
+- install husky and enable husky hooks <br/>
+  `npm install husky --save-dev` <br/>
   `npx husky install`
 - Add following script to enable commitlint with husky
   `npx husky add .husky/commit-msg "npx --no -- commitlint --edit $1"`
