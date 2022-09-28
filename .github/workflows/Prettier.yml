@@ -8,6 +8,7 @@ on:
       - main
 
 jobs:
+
   prettier:
     runs-on: ubuntu-latest
 
