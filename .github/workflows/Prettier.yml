@@ -8,7 +8,6 @@ on:
       - main
 
 jobs:
-
   prettier:
     runs-on: ubuntu-latest
 
@@ -22,3 +21,4 @@ jobs:
         uses: creyD/prettier_action@v4.2
         with:
           prettier_options: --write **/*
+          working_directory: '../../myapp/src'
