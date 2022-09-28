@@ -26,5 +26,6 @@
 - scope is optional
 
 # Example
-- `git commit -m test:'this is a test'`
-- `git commit -m docs(commitlint): documentation'`
+
+- `git commit -m 'test:this is a test'`
+- `git commit -m 'docs(commitlint): documentation'`
