@@ -13,7 +13,10 @@ jobs:
       - name: install and run Lighthouse CI
         run: |
           npm install -g @lhci/cli@0.8.x
-          lhci autorun --upload.target=temporary-public-storage | grep -o "https://storage.*html"
+          echo "MSG=$(lhci autorun --upload.target=temporary-public-storage | grep -o "https://storage.*html")" >> $GITHUB_ENV
+      -name: test env 
+        run: |
+          echo " ${{ env.MSG }} "
       - name: comment the result link here
         uses: zt4ff/auto-commenter@v2
         with:
