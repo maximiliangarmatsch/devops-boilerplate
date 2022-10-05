@@ -32,5 +32,6 @@ jobs:
           VALIDATE_MARKDOWN: false
           VALIDATE_JSON: false
           VALIDATE_BASH: false
+          VALIDATE_NATURAL_LANGUAGE: false
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
