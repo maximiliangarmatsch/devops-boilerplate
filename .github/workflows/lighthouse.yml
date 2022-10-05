@@ -10,16 +10,14 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 14
-      - name: install and run Lighthouse CI
+      - name: Install and Run Lighthouse CI
         run: |
           npm install -g @lhci/cli@0.8.x
-          echo "MSG=$(lhci autorun --upload.target=temporary-public-storage | grep -o "https://storage.*html")" >> $GITHUB_ENV
-      - name: test env 
-        run: |
-          echo " ${{ env.MSG }} "
-      - name: comment the result link here
+          echo "LIGHTHOUSE_URL=$(lhci autorun --upload.target=temporary-public-storage | grep -o "https://storage.*html")" >> $GITHUB_ENV
+      - name: Comment Lighthouse Result
         uses: zt4ff/auto-commenter@v2
         with:
           type: custom
           body: |
-            This is an example custom message 
+            Link to Lighthouse Result:
+            ${{ env.LIGHTHOUSE_URL }}
