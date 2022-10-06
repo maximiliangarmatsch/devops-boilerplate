@@ -5,6 +5,8 @@
     "sourceType": "module",
     "allowImportExportEverywhere": true,
 
+    "plugins": ["jsx"],
+
     "requireConfigFile": false
   },
 
