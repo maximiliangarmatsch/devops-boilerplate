@@ -4,9 +4,7 @@
     "ecmaVersion": "latest",
     "sourceType": "module",
     "allowImportExportEverywhere": true,
-    "ecmaFeatures": {
-      "jsx": true
-    },
+
     "requireConfigFile": false
   },
 
