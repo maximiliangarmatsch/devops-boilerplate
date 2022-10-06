@@ -4,9 +4,9 @@
     "ecmaVersion": "latest",
     "sourceType": "module",
     "allowImportExportEverywhere": true,
-
-    "plugins": ["jsx"],
-
+    "babelOptions": {
+      "presets": ["@babel/preset-react"]
+    },
     "requireConfigFile": false
   },
 
