@@ -3,7 +3,10 @@
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module",
-    "allowImportExportEverywhere": true
+    "allowImportExportEverywhere": true,
+    "ecmaFeatures": {
+      "jsx": true
+    }
   },
 
   "env": {
