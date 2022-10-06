@@ -6,7 +6,8 @@
     "allowImportExportEverywhere": true,
     "ecmaFeatures": {
       "jsx": true
-    }
+    },
+    "requireConfigFile": false
   },
 
   "env": {
