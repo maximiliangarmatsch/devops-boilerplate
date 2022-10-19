@@ -57,12 +57,4 @@ app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
-app.listen(PORT, () => {
-  console.log(`app listening on port ${PORT}`);
-});
-
-app.on("error", (error) => {
-  console.log(`error running app on port ${PORT}: ${error.message}`);
-});
-
 module.exports = app;
