@@ -1,4 +1,6 @@
 name: LightHouse
+env:
+  PORT: 3000
 on: [push]
 jobs:
   lighouthouse-test:
