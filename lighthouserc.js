@@ -1,7 +1,11 @@
+require("dotenv").config()
+
+const PORT = process.env.PORT | 3000
+
 module.exports = {
   ci: {
     collect: {
-      url: "https://google.com",
+      url: `localhost:${PORT}` ,
       assert: {
         assertions: {
           "categories:performance": ["warn", { minScore: 0.1 }],
