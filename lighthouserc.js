@@ -5,7 +5,7 @@ const PORT = process.env.PORT | 3000
 module.exports = {
   ci: {
     collect: {
-      url: `localhost:${PORT}` ,
+      url: `http://localhost:${PORT}` ,
       assert: {
         assertions: {
           "categories:performance": ["warn", { minScore: 0.1 }],
