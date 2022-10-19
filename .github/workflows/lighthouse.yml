@@ -12,6 +12,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 14
+      - name: Start the server
+        run: |
+          yarn install
+          yarn start&
       - name: Install and Run Lighthouse CI
         run: |
           npm install -g @lhci/cli@0.8.x
