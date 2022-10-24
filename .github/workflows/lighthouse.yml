@@ -21,7 +21,7 @@ jobs:
           npm install -g @lhci/cli@0.8.x
           echo "LIGHTHOUSE_URL=$(lhci autorun --upload.target=temporary-public-storage | grep -o "https://storage.*html")" >> $GITHUB_ENV
       - name: Comment Lighthouse Result
-        uses: ./../.github/actions/commenter/
+        uses: ./../.github/actions/comment/
         with:
           type: custom
           body: |
