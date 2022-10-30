@@ -1,0 +1,20 @@
+name: "Auto Commenter"
+description: "Send love messages, memes or custom message as comments"
+inputs:
+  token:
+    description: The Github authetication token
+    default: ${{ github.token }}
+  repository:
+    description: the name and target of the repository
+    default: ${{ github.repository }}
+  sha:
+    description: The commit SHA
+  type:
+    description: "The type of comment to be sent"
+    required: true
+    default: "love_texts"
+  body:
+    description: "The custom message if type is 'custom'"
+runs:
+  using: "node14"
+  main: "dist/index.js"

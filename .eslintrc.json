@@ -1,0 +1,21 @@
+{
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module",
+    "allowImportExportEverywhere": true,
+    "babelOptions": {
+      "presets": ["@babel/preset-react"]
+    },
+    "requireConfigFile": false
+  },
+
+  "env": {
+    "es6": true
+  },
+  "rules": {
+    "no-var": "error",
+    "semi": ["error", "always"],
+    "no-console": "error"
+  }
+}
