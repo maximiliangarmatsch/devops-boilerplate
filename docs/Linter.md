@@ -1,3 +1,10 @@
+# Why Superlinting ➝ Clean Code ➝ Best Practice ➝ but why?
+
+- Defines rules for how the code should look
+- So multiple Developers can read each others code quickly
+- Reduces bugs
+- Prevents unclean code being saved to the main branch
+
 # Commitlint
 
 - Commitlint: https://commitlint.js.org/
