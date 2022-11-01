@@ -15,7 +15,7 @@ We make changes to DBP by writing patches, testing, reviewing, and pushing them.
  -  ### [Code Quality](LinktoCode%Quality)
  -  ### [How To Handle Files](LinktoHow%To%Handle%Files)
  -  ### [Diagram?]()
- -  ### [Linting]()
+ -  ### [Linting](Linter.md)
 
 ## More Information:
 
