@@ -1,15 +1,16 @@
-# Before you start:
+# Before you start
 
--   #### What skills do I need?
-    -   list?
--   #### Account needed? (just github or need to register for other services?)
+- #### What skills do I need?
+  - list?
 
-    ............
-
--   #### Any special code review tools to install?
+- #### Account needed? (just github or need to register for other services?)
 
     ............
 
--   #### Dependencies to install? (Extensions, ..etc.)
+- #### Any special code review tools to install?
+
+    ............
+
+- #### Dependencies to install? (Extensions, ..etc.)
 
     ............

@@ -1,6 +1,7 @@
 Steps
- - Init file, in project-root
-   - .github/workflows/<example>.yml
+
+- Init file, in project-root
+  - .github/workflows/<example>.yml
 - Specify deployment workflow, In .yml file:
   
       on: [push, pull_request]
