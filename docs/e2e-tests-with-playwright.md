@@ -1,6 +1,6 @@
 - Initialize & create same tests
 - Prompt to create a CI pipeline for you.
-  - `npm init playwright@latest`
+    `npm init playwright@latest`
 
 ### Run E2E-Tests locally
 

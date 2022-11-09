@@ -54,3 +54,7 @@
   https://github.com/GoogleChrome/lighthouse-ci/blob/main/docs/getting-started.md
   - Assertions:
    https://github.com/GoogleChrome/lighthouse-ci/blob/main/docs/getting-started.md#add-assertions
+
+
+   - comment example:
+   ![](../public/images/lighthouse-integration.png)
