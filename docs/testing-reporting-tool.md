@@ -1,7 +1,7 @@
 ### Goal
   When bugs are discovered, the tester can directly write a message
-  Screenshot is taken and logs are stored
-  Everything is sent to be sorted into the Backlog
+  - Screenshot is taken and logs are stored
+  - Everything is sent to be sorted into the Backlog
 
 ### Tool: 
   Usersnap: https://usersnap.com/
