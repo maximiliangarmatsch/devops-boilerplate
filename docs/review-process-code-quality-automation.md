@@ -17,7 +17,7 @@
     - e.g exactly one unit test
     - e.g no more than 100 lines changed
     - e.g only 2-3 files changed
-    - e.g All PRs must have a similiar size!
+    - e.g All PRs must have a similar size!
 - Self Code-Review
 - Buddy Code-Review
 - Tester & design review

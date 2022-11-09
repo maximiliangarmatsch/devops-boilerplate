@@ -16,3 +16,6 @@ Liquibase command list
 <https://docs.liquibase.com/commands/home.html>
 Liquibase Concepts
 <https://docs.liquibase.com/concepts/home.html>
+
+### Deployment
+- [Deploy Liquibase to GitHub](./deploy-liquibase-to-github.md)

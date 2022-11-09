@@ -1,0 +1,10 @@
+- Team-Management & Motivation
+  - Payment via Storypoints in ClickUp
+  - Contributor-Activity is visible
+  - via GitHub
+    - Contributors Badge
+      - Repo: <https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/>
+      - User: [Add badges to the repo (display stats, stars, activity, PRs,..etc.)](https://github.com/DenverCoder1/github-readme-streak-stats)
+      - Repo view Counter and more [link?]
+  - via ClickUp
+    - Dashboard "Top contributors by Story points"

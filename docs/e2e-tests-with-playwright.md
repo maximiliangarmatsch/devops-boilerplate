@@ -8,7 +8,7 @@
 
 ### Run E2E-Tests in pipeline
 
-    - Create /github/workflows/playwright.yml
+  - Create `/github/workflows/playwright.yml`
   
         name: Playwright Tests
     
@@ -66,5 +66,5 @@
 
 ### Playwright Documentation
 
-    - Config: https://github.com/maximiliangarmatsch/devops-boilerplate/blob/playwright-test/playwright.config.js
-    - Docs: https://playwright.dev/docs/test-configuration
+  - Config: https://github.com/maximiliangarmatsch/devops-boilerplate/blob/playwright-test/playwright.config.js
+  - Docs: https://playwright.dev/docs/test-configuration

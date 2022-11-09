@@ -3,8 +3,8 @@
 - Login into SonarCloud with GitHub and give access to GitHub-Repo - <https://sonarcloud.io/>
 - Create action-secret
   - <https://github.com/maximiliangarmatsch/devops-boilerplate/settings/secrets/actions>
-  - called SONAR_TOKEN  with the string provided by SonarCloud
-- Create  .github/workflows/sonarcloud.yml   and paste the following
+  - called `SONAR_TOKEN`  with the string provided by SonarCloud
+- Create  `.github/workflows/sonarcloud.yml`   and paste the following
   - example: <https://github.com/maximiliangarmatsch/devops-boilerplate/blob/main/.github/workflows/sonarcloud.yml>
 - Configuration file: ./sonar-project.properties
   - example: <https://github.com/SonarSource/sonar-scanning-examples/blob/master/sonarqube-scanner/sonar-project.properties>

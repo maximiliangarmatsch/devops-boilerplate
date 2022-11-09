@@ -4,8 +4,8 @@
 
 ### Steps
 
-- Install Node.js
-- Setup Express
+1. Install Node.js
+2. Setup Express
 
 ### Why
 
