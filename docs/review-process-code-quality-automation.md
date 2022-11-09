@@ -28,8 +28,8 @@
 7. Senior-dev review (should only do "complete" review of the application)
 8. Product owner review (in the release branch)
 
-Green = Cheap
+    Green = Cheap
 
-Yellow = Average
+    Yellow = Average
 
-Red = Expensive
+    Red = Expensive
