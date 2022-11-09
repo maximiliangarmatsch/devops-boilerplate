@@ -4,7 +4,7 @@
 
 ### Steps
 
-1. In Terminal, in project-root, run:
+1. In Terminal, in project-root, run:<br/>
      `liquibase init project`
 2. Configure the liquibase.properties file to connect to a local test database:
 
