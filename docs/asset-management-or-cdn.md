@@ -1,20 +1,20 @@
 ### Tasks
 
 - Setup + Guideline (for all platforms use Max's or GS's accounts NOT personal accounts)
-  1. Deploy the website to netlify (connect Max's GitHub repo to netlify)
-  2. Add a custom domain,  "garmatschsoftware.de or     devopsproject.garmatschsoftware.de"
-  3. Update DNS settings on all-inkl
+1. Deploy the website to netlify (connect Max's GitHub repo to netlify)
+2. Add a custom domain,  "garmatschsoftware.de or     devopsproject.garmatschsoftware.de"
+3. Update DNS settings on all-inkl
         - <https://kas.all-inkl.com/index.php>
         - login via bitwarden: w012bb2a
-  4. Select DOMAIN from the left-side menu
-  5. Navigate to garmatschsoftware.de > select the Edit icon on the right
-  6. DNS settings for this subdomain
-  7. Create New DNS
-  8. Select NS
-  9. Add "devopsproject" in the name Field
-  10. Add DNS from netlify in the data field
-  11. do it for the 4 DNS provided.
-  12. Click save
+4. Select DOMAIN from the left-side menu
+5. Navigate to garmatschsoftware.de > select the Edit icon on the right
+6. DNS settings for this subdomain
+7. Create New DNS
+8. Select NS
+9. Add "devopsproject" in the name Field
+10. Add DNS from netlify in the data field
+11. do it for the 4 DNS provided.
+12. Click save
 
   ![](../public/images/cdn-image.png)
 
