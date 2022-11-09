@@ -1,6 +1,5 @@
-### Tasks
+### Setup + Guideline
 
-  - Setup + Guideline (for all platforms use Max's or GS's accounts NOT personal accounts)
   1. Deploy the website to netlify (connect Max's GitHub repo to netlify)
   2. Add a custom domain,  "garmatschsoftware.de or     devopsproject.garmatschsoftware.de"
   3. Update DNS settings on all-inkl
