@@ -42,7 +42,7 @@ Our goal is to provide an overview of tools & technologies used by us for scalab
 - Package manager
     - [Check for outdated packages](./docs/check-for-outdated-packages.md)
 
-- Uncategorized(Confirm from max )  
+- Other  
     - [Compensation and recognition for open source contributors](./docs/compensation-and-recognition-for-open-source-contributors.md)
 
 
