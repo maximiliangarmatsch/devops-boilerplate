@@ -3,10 +3,8 @@
 
 Our goal is to provide an overview of tools & technologies used by us for scalable web projects.
 
-<div align="center">
-  <h3> Index </h3>
-</div>
 
+### Index
 - Asset management
     - [Asset management or cdn](./docs/asset-management-or-cdn.md)
 - Frontend 
