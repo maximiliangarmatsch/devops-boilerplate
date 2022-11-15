@@ -1,5 +1,5 @@
 
-#Welcome to our DevOps Boilerplate Project (DBP)
+# Welcome to our DevOps Boilerplate Project (DBP)
 
 Our goal is to provide an overview of tools & technologies used by us for scalable web projects.
 
