@@ -26,7 +26,7 @@ Our goal is to provide an overview of tools & technologies used by us for scalab
     - [Setup linter](./docs/setup-linter.md)
     - [setup sonarQube-sonarCloud-in-github](./docs/setup-sonarQube-sonarCloud-in-github.md)
     - [Lighthouse integration](./docs/lighthouse-integration.md)
-- Test
+- Testing
     - playwright
         - [E2E tests with playwright](./docs/e2e-tests-with-playwright.md)
     - Metasploit
