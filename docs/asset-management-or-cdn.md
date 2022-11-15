@@ -1,6 +1,6 @@
 ### Setup + Guideline
 
-  1. Deploy the website to netlify (connect Max's GitHub repo to netlify)
+  1. Deploy the website to netlify 
   2. Add a custom domain,  "garmatschsoftware.de or     devopsproject.garmatschsoftware.de"
   3. Update DNS settings on all-inkl
       - <https://kas.all-inkl.com/index.php>
