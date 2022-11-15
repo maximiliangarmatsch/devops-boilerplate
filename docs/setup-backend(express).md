@@ -4,8 +4,8 @@
 
 ### Steps
 
-1. Install Node.js
-2. Setup Express
+1. Install [Node.js](https://nodejs.org/en/)
+2. Setup [Express](https://expressjs.com/en/starter/installing.html)
 
 ### Why
 

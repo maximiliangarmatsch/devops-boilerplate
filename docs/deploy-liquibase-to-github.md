@@ -1,7 +1,7 @@
 ### Steps
 
 1. Init file, in project-root
-    `.github/workflows/<example>.yml`
+    - `.github/workflows/<example>.yml`
 2. Specify deployment workflow, In .yml file:
   
         on: [push, pull_request]

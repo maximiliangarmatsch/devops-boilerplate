@@ -1,6 +1,6 @@
 ### Todo
 
-- Find a tool that can test the security of the backend (Connect with Safei)
+- Find a tool that can test the security of the backend 
 
 ### Learning
 
